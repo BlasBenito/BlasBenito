@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 Here you can take a quick look at 
 
 - :computer: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
-- :earth_americas: Ecoinformatician and biogeographer.
-- 
+- :earth_americas: Ecoinformatician and biogeographer
+- :floppy_disk: R developer
+   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF)
 
 
 __Social__
