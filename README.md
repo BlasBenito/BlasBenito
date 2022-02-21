@@ -12,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="right" src="URL_TO_IMAGE_HERE" width="200px" style="width:200px;"/>
+
 -->
+
+### Welcome!
+
+Here you can take a quick look at 
+
+- :computer: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
+- 
