@@ -28,3 +28,7 @@ __Social__
 
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/blasbenito)](https://twitter.com/blasbenito)
 [![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/blas-m-benito-6174a643/)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
+
+__Tech__
+
+[![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/blasbenito/)](https://github.com/blasbenito/)
