@@ -24,7 +24,7 @@ Here you can take a quick look at
 - :computer: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
 - :earth_americas: Ecoinformatician and biogeographer
 - :floppy_disk: R developer
-   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF)
+   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF)
 
 
 __Social__
