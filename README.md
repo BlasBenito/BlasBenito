@@ -27,7 +27,7 @@ Here you can take a quick look at
 __Social__
 
 [![Twitter](https://img.shields.io/twitter/follow/blasbenito?style=social&url=https://twitter.com/blasbenito)](https://twitter.com/blasbenito)
-[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/blas-m-benito-6174a643/)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
+[![LinkedIn](https://img.shields.io/twitter/url?style=social&label=connect&logo=linkedin&url=https://www.linkedin.com/in/blas-m-benito-6174a643/)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
 
 __Tech__
 
