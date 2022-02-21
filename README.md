@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 Here you can take a quick look at 
 
 - :computer: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
+- :earth_americas: Ecoinformatician and biogeographer.
+- 
 
 
 __Social__
