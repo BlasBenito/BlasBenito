@@ -23,7 +23,7 @@ I am Blas, and I enjoy answering complex questions with good data and fancy meth
 
 - :earth_americas: Personal website here: [www.blasbenito.com](www.blasbenito.com)
 - :roller_coaster: PhD in Ecoinformatics and Masters in Geographic Information Systems.
-- :notebook: [![Generic badge](https://img.shields.io/badge/ORCID-<COLOR>.svg)](https://orcid.org/0000-0001-5105-7232)
+- :notebook: [![Generic badge](https://img.shields.io/badge/ORCID-blue.svg)](https://orcid.org/0000-0001-5105-7232)
 - :office: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
 - :computer: R developer focused on scientific software:
    - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF)
