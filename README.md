@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 Here you can take a quick look at 
 
-- :office: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
 - :earth_americas: Website: [www.blasbenito.com](www.blasbenito.com)
+- :office: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
+- :roller_coaster: Ecoinformatician and biogeographer.
 - :computer: R developer focused on scientific software:
    - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF)
    - [`distantia`](https://CRAN.R-project.org/package=distantia) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia)
