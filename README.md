@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Welcome!
 
-Here you can take a quick look at 
+I am Blas, and I enjoy answering complex questions with good data and fancy methods.
 
 - :earth_americas: Personal website here: [www.blasbenito.com](www.blasbenito.com)
 - :roller_coaster: PhD in Ecoinformatics and Masters in Geographic Information Systems.
