@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Here you can take a quick look at 
 
 - :earth_americas: Website: [www.blasbenito.com](www.blasbenito.com)
-- :roller_coaster: Ecoinformatician and biogeographer.
+- :roller_coaster: PhD in Ecoinformatics and Masters in Geographic Information Systems.
 - :office: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
 - :computer: R developer focused on scientific software:
    - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF)
