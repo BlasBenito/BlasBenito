@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Here you can take a quick look at 
 
-- :earth_americas: Website: [www.blasbenito.com](www.blasbenito.com)
+- :earth_americas: Personal website here: [www.blasbenito.com](www.blasbenito.com)
 - :roller_coaster: PhD in Ecoinformatics and Masters in Geographic Information Systems.
 - :office: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
 - :computer: R developer focused on scientific software:
