@@ -32,4 +32,4 @@ __Social__
 __Tech__
 
 [![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/blasbenito/)](https://github.com/blasbenito/)
-![Postgres](https://img.shields.io/badge/-PostgreSQL?&logo=postgresql&link=https://github.com/blasbenito/)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-white?&logo=postgresql&link=https://github.com/blasbenito/)
