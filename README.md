@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I am Blas, and I enjoy answering complex questions with good data and fancy methods.
 
 - :earth_americas: Personal website: [www.blasbenito.com](www.blasbenito.com)
-- :roller_coaster: PhD in Ecoinformatics and Masters in Geographic Information Systems.
+- :roller_coaster: PhD in Ecoinformatics and Masters in Geographic Information Systems :globe_with_meridians:.
 - :notebook: Publication record: [![ORCID](https://img.shields.io/badge/ORCID-darkgreen.svg)](https://orcid.org/0000-0001-5105-7232)
 - :office: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
 - :computer: R developer focused on scientific software:
