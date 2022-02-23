@@ -19,20 +19,21 @@ Here are some ideas to get you started:
 
 ### Welcome!
 
-I am Blas, and I enjoy answering complex questions with good data and fancy methods.
+I am Blas, from :es:, and I enjoy answering complex questions with good data and fancy methods.
 
 - :earth_americas: Personal website: [www.blasbenito.com](www.blasbenito.com)
-- :roller_coaster: PhD in Ecoinformatics and Masters in Geographic Information Systems :globe_with_meridians:.
-- :notebook: Publication record: [![ORCID](https://img.shields.io/badge/ORCID-darkgreen.svg)](https://orcid.org/0000-0001-5105-7232)
+- :roller_coaster: PhD in Ecoinformatics and Masters in Geographic Information Systems :globe_with_meridians:
+- :notebook: You can find my publication record here: [![ORCID](https://img.shields.io/badge/ORCID-darkgreen.svg)](https://orcid.org/0000-0001-5105-7232)
 - :office: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
 - :computer: R developer focused on scientific software:
    - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF)
    - [`distantia`](https://CRAN.R-project.org/package=distantia) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia)
    - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria)
    - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen)
+- :wrench: R + Rstudio + git + GitHub (obviously) + renv + docker + Rmarkdown + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS
 
 
-__Social__
+__You can find me here:__
 
 [![Twitter](https://img.shields.io/twitter/follow/blasbenito?style=social&url=https://twitter.com/blasbenito)](https://twitter.com/blasbenito)
 [![LinkedIn](https://img.shields.io/twitter/url?style=social&label=connect&logo=linkedin&url=https://www.linkedin.com/in/blas-m-benito-6174a643/)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
