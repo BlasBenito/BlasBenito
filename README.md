@@ -42,7 +42,7 @@ __Languages:__
   
   <img align="left" alt="My Languages:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blasbenito&hide=javascript,html,tex,css,scss)](https://github.com/blasbenito/github-readme-stats" />
   
-  <pr/>
+<br/>
 
 __GitHub activity:__
 
