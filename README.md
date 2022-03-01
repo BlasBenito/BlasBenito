@@ -38,12 +38,7 @@ __You can find me here:__
 [![Twitter](https://img.shields.io/twitter/follow/blasbenito?style=social&url=https://twitter.com/blasbenito)](https://twitter.com/blasbenito)
 [![LinkedIn](https://img.shields.io/twitter/url?style=social&label=connect&logo=linkedin&url=https://www.linkedin.com/in/blas-m-benito-6174a643/)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="My GitHub stats:" src="https://github-readme-stats.vercel.app/api?username=blasbenito&show_icons=true&hide_border=false&title_color=219de9&icon_color=0879b9&bg_color=fbfbfb&text_color=6c6c6c&border_color=0c1a25" />
-
-</details>
 
 <!--
 
