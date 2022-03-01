@@ -48,6 +48,8 @@ __GitHub activity:__
 
   <img align="left" alt="My GitHub stats:" src="https://github-readme-stats.vercel.app/api?username=blasbenito&show_icons=true&hide_border=false&title_color=219de9&icon_color=0879b9&bg_color=fbfbfb&text_color=6c6c6c&border_color=0c1a25" />
   
+  [![My GitHub activity](https://github-readme-stats.vercel.app/api?username=blasbenito&show_icons=true&hide_border=false&title_color=219de9&icon_color=0879b9&bg_color=fbfbfb&text_color=6c6c6c&border_color=0c1a25)]
+  
 
 
 <!--
