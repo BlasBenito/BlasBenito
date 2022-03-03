@@ -30,7 +30,7 @@ I am Blas, from :es:, and I enjoy answering complex questions with good data and
    - [`distantia`](https://CRAN.R-project.org/package=distantia) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia)
    - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria)
    - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen)
-- :wrench: R + Rstudio + git + GitHub (obviously) + renv + docker + Rmarkdown + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS
+- :wrench: R + Rstudio + git + GitHub (obviously) + renv + docker + Rmarkdown + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Spark
 
 
 __You can find me here:__
