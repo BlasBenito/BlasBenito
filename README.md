@@ -35,7 +35,7 @@ I am Blas, from :es:, and I enjoy answering complex questions with good data and
 
 __You can find me here:__
 
-[![Twitter](https://img.shields.io/twitter/follow/blasbenito?style=social&url=https://twitter.com/blasbenito)](https://twitter.com/blasbenito)
+![Twitter](https://img.shields.io/twitter/follow/blasbenito?style=social&url=https://twitter.com/blasbenito)
 [![LinkedIn](https://img.shields.io/twitter/url?style=social&label=connect&logo=linkedin&url=https://www.linkedin.com/in/blas-m-benito-6174a643/)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
 [![Gmail](https://img.shields.io/twitter/url?style=social&label=blasbenito@gmail.com&logo=gmail&url=https://www.blasbenito.com)](mailto:blasbenito@gmail.com)
 
