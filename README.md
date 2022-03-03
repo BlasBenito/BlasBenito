@@ -26,10 +26,10 @@ I am Blas, from :es:, and I enjoy answering complex questions with good data and
 - :notebook: 16 years of experience in Academy and a publication record to show for it: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
 - :office: Data Scientist and GIS Data Engineer at [Biome Makers](https://biomemakers.com/)
 - :computer: Developer of scientific software with R:
-   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF)
-   - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia)
-   - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria)
-   - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen)
+   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF)
+   - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia)
+   - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria)
+   - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen)
 - :wrench: R + Rstudio + git + GitHub (obviously) + renv + docker + Rmarkdown + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Spark
 
 
