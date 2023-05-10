@@ -30,7 +30,7 @@ I am Blas, from :es:, and I enjoy answering complex questions with good data and
    - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia)
    - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria)
    - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen)
-- :wrench: R + Rstudio + git + GitHub (obviously) + renv + docker + Rmarkdown + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Spark + AWS + aws-cli
+- :wrench: R + Rstudio + git + GitHub (obviously) + renv + docker + targets + Rmarkdown + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS.
 
 
 __You can find me here:__
@@ -39,21 +39,13 @@ __You can find me here:__
 [![LinkedIn](https://img.shields.io/twitter/url?style=social&label=connect%20with%20me&logo=linkedin&url=https://www.linkedin.com/in/blas-m-benito-6174a643/)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
 [![Gmail](https://img.shields.io/twitter/url?style=social&label=blasbenito@gmail.com&logo=gmail&url=https://www.blasbenito.com)](mailto:blasbenito@gmail.com)
 
-__GitHub activity:__ 
-  
-  ![My GitHub activity](https://github-readme-stats.vercel.app/api/top-langs/?username=blasbenito&hide=javascript,html,tex,css,scss&hide_border=false&title_color=219de9&icon_color=0879b9&bg_color=fbfbfb&text_color=6c6c6c&border_color=0c1a25)
-  
-  ![My GitHub activity](https://github-readme-stats.vercel.app/api?username=blasbenito&show_icons=true&hide_border=false&title_color=219de9&icon_color=0879b9&bg_color=fbfbfb&text_color=6c6c6c&border_color=0c1a25)
-  
+<!--
 
+__Tech__
 
-#<!--
-#
-#__Tech__
-#
-#[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-#[![R](https://img.shields.io/badge/-programming-black?style=plastic&logo=r&link=https://github.com/blasbenito/)](https://github.com/blasbenito/)
-#[![PostgreSQL](https://img.shields.io/badge/-programming-white?style=flat-square&logo=r&link=https://github.com/blasbenito/)](https://github.com/blasbenito/)
-#![Postgres](https://img.shields.io/badge/-PostgreSQL-white?&logo=postgresql&link=https://github.com/blasbenito/)
-#
-#-->
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![R](https://img.shields.io/badge/-programming-black?style=plastic&logo=r&link=https://github.com/blasbenito/)](https://github.com/blasbenito/)
+[![PostgreSQL](https://img.shields.io/badge/-programming-white?style=flat-square&logo=r&link=https://github.com/blasbenito/)](https://github.com/blasbenito/)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-white?&logo=postgresql&link=https://github.com/blasbenito/)
+
+-->
