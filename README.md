@@ -19,24 +19,29 @@ Here are some ideas to get you started:
 
 ### Welcome!
 
-I am Blas, from :es:, and I enjoy answering complex questions with good data and fancy methods.
+This is Blas, a Spatial Data Scientist and Team Leader in AgriTech.
 
 - :roller_coaster: PhD in Computational Ecology and Master's Degree in Geographic Information Systems :globe_with_meridians:
-- :earth_americas: Personal website: [www.blasbenito.com](www.blasbenito.com)
-- :notebook: 16 years of experience in Academy and a publication record to show for it: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
-- :office: Spatial Data Scientist and Engineer at [Biome Makers](https://biomemakers.com/)
-- :computer: Developer of scientific software with R:
+- :notebook: 18 YOE in Spatial Data Science, Scientific Software Development, and Research: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
+- :office: Leader of the Environmental Data Team at [Biome Makers](https://biomemakers.com/).
+  - Product development in AgriTech
+  - Spatial machine learning, remote-sensing, time-series analysis and prediction
+  - Crop and soil high-resolution modeling and mapping
+  - Development and productivization of automated data and modeling pipelines
+  - Knowledge transfer and technical reporting
+  - Team leadership, management, and mentoring
+- :computer: Scientific software development (Open Source projects):
    - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF)
    - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia)
    - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria)
    - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen)
-- :wrench: R + Rstudio + git + GitHub (obviously) + renv + docker + targets + Rmarkdown + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS.
+- :wrench: R + Rstudio + git + GitHub + renv + docker + targets + Rmarkdown + plumber + DuckDB + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS.
+- :earth_americas: Personal website: [www.blasbenito.com](www.blasbenito.com)
 
 
 __You can find me here:__
 
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109265705390787610?domain=https%3A%2F%2Ffosstodon.org&style=social)
-[![Twitter](https://img.shields.io/twitter/follow/blasbenito?style=social&url=https://twitter.com/blasbenito)](https://twitter.com/blasbenito)
 [![LinkedIn](https://img.shields.io/twitter/url?style=social&label=connect%20with%20me&logo=linkedin&url=https://www.linkedin.com/in/blas-m-benito-6174a643/)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
 [![Gmail](https://img.shields.io/twitter/url?style=social&label=blasbenito@gmail.com&logo=gmail&url=https://www.blasbenito.com)](mailto:blasbenito@gmail.com)
 
