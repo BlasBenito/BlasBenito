@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 -->
 
-### Welcome!
+### Blas M. Benito, PhD
 
-This is Blas, a Spatial Data Scientist and Team Leader in AgriTech.
+__Spatial Data Scientist and Team Leader in AgriTech__
 
 - :roller_coaster: PhD in Computational Ecology and Master's Degree in Geographic Information Systems :globe_with_meridians:
 - :notebook: 18 YOE in Spatial Data Science, Scientific Software Development, and Research: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
@@ -28,22 +28,32 @@ This is Blas, a Spatial Data Scientist and Team Leader in AgriTech.
   - Spatial machine learning, remote-sensing, time-series analysis and prediction
   - Crop and soil high-resolution modeling and mapping
   - Development and productivization of automated data and modeling pipelines
-  - Knowledge transfer and technical reporting
+  - Data analysis, knowledge transfer, and technical reporting
+  - Strategic planning
   - Team leadership, management, and mentoring
-- :computer: Scientific software development (Open Source projects):
-   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF) Spatial modelling with Random Forest.
-   - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia) Time series comparison and analysis.
-   - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria) Time series lag analysis.
-   - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen) Ecological simulation
-- :wrench: R + Rstudio + git + GitHub + renv + docker + targets + Rmarkdown + plumber + DuckDB + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS.
-- :earth_americas: Personal website: [www.blasbenito.com](www.blasbenito.com)
+ 
+__Stack__
 
+:wrench: R + Rstudio + git + GitHub + renv + docker + targets + Rmarkdown + plumber + DuckDB + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS
+ 
+__Scientific Code Development__
+  - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF) Spatial modelling with Random Forest.
+  - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia) Time series comparison and analysis.
+  - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria) Time series lag analysis.
+  - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen) Ecological simulation
 
-__You can find me here:__
+__Social Media__
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109265705390787610?domain=https%3A%2F%2Ffosstodon.org&style=social)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109265705390787610?domain=https%3A%2F%2Ffosstodon.org&style=social)](https://fosstodon.org/@blasbenito)
+[![BlueSky Social](https://img.shields.io/twitter/url?style=social&label=BlueSky&logo=twitter&url=https://bsky.app/profile/blasbenito.bsky.social)](https://bsky.app/profile/blasbenito.bsky.social)
 [![LinkedIn](https://img.shields.io/twitter/url?style=social&label=connect%20with%20me&logo=linkedin&url=https://www.linkedin.com/in/blas-m-benito-6174a643/)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
-[![Gmail](https://img.shields.io/twitter/url?style=social&label=blasbenito@gmail.com&logo=gmail&url=https://www.blasbenito.com)](mailto:blasbenito@gmail.com)
+[![Gmail](https://img.shields.io/twitter/url?style=social&label=blasbenito@gmail.com&logo=gmail&url=https://www.gmail.com)](mailto:blasbenito@gmail.com)
+[![Google Scholar](https://img.shields.io/twitter/url?style=social&label=Scholar&logo=googlescholar&url=https://scholar.google.es/citations?user=WBTp0McAAAAJ)](https://scholar.google.es/citations?user=WBTp0McAAAAJ)
+[![Personal website](https://img.shields.io/twitter/url?style=social&label=Website&logo=netlify&url=https://www.blasbenito.com)](https://www.blasbenito.com)
+
+
+
+
 
 <!--
 
