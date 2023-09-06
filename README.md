@@ -31,10 +31,10 @@ This is Blas, a Spatial Data Scientist and Team Leader in AgriTech.
   - Knowledge transfer and technical reporting
   - Team leadership, management, and mentoring
 - :computer: Scientific software development (Open Source projects):
-   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF)
-   - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia)
-   - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria)
-   - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen)
+   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF) Spatial modelling with Random Forest.
+   - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia) Time series comparison and analysis.
+   - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria) Time series lag analysis.
+   - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen) Ecological simulation
 - :wrench: R + Rstudio + git + GitHub + renv + docker + targets + Rmarkdown + plumber + DuckDB + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS.
 - :earth_americas: Personal website: [www.blasbenito.com](www.blasbenito.com)
 
