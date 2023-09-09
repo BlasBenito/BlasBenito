@@ -59,6 +59,8 @@ __Social Media__
 
 __Tech__
 
+[![BlasBenito's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniaalnadir&show_icons=true&theme=dracula&count_private=true)
+
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![R](https://img.shields.io/badge/-programming-black?style=plastic&logo=r&link=https://github.com/blasbenito/)](https://github.com/blasbenito/)
 [![PostgreSQL](https://img.shields.io/badge/-programming-white?style=flat-square&logo=r&link=https://github.com/blasbenito/)](https://github.com/blasbenito/)
