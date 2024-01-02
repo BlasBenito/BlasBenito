@@ -34,7 +34,7 @@ __Spatial Data Scientist and Team Leader in AgriTech__
  
 __Stack__
 
-:wrench: R + Rstudio + git + GitHub + renv + docker + targets + Rmarkdown + plumber + DuckDB + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS
+:wrench: R + Rstudio + git + GitHub + renv + Rcpp + docker + targets + Rmarkdown + plumber + DuckDB + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS
  
 __Scientific Code Development__
   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF) Spatial modelling with Random Forest.
