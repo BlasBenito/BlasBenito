@@ -24,11 +24,10 @@ __Spatial Data Scientist and Team Leader in AgriTech__
 - :roller_coaster: PhD in Computational Ecology and Master's Degree in Geographic Information Systems :globe_with_meridians:
 - :notebook: 18 YOE in Spatial Data Science, Scientific Software Development, and Research: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
 - :office: Lead of the Environmental Data Team at [Biome Makers](https://biomemakers.com/).
-  - Product development in AgriTech
-  - Spatial machine learning, remote-sensing, time-series analysis and prediction
-  - Crop and soil high-resolution modeling and mapping
-  - Development and productivization of automated data and modeling pipelines
-  - Data analysis, knowledge transfer, and technical reporting
+  - Product development in AgTech
+  - High-resolution soil mapping, spatial machine learning, time-series analysis and prediction
+  - Spatial data pipelines from the whiteboard to production
+  - Fundamental and applied research, knowledge transfer, and technical reporting
   - Strategic planning
   - Team leadership, management, and mentoring
  
