@@ -41,7 +41,7 @@ __Scientific Code Development__
 
 ![](https://cranlogs.r-pkg.org/badges/grand-total/Rcpp)
 
-  - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF) Spatial modelling with Random Forest.
+  - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/spatialRF) Spatial modelling with Random Forest.
   - [`collinear`](https://CRAN.R-project.org/package=collinear) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](http://cranlogs.r-pkg.org/badges/grand-total/collinear)](https://CRAN.R-project.org/package=collinear) Multicollinearity management for numeric and categorical variables.
   - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia) Time series comparison and analysis.
   - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria) Time series lag analysis.
