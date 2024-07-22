@@ -39,11 +39,11 @@ __Scientific Code Development__
 
 [![](https://cranlogs.r-pkg.org/badges/ggplot2)](https://cran.rstudio.com/web/packages/ggplot2/index.html)
 
-  - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF) Spatial modelling with Random Forest.
-  - [`collinear`](https://CRAN.R-project.org/package=collinear) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/collinear)](https://CRAN.R-project.org/package=collinear) Multicollinearity management for numeric and categorical variables.
-  - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia) Time series comparison and analysis.
-  - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria) Time series lag analysis.
-  - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; [![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen) Mechanistic simulation in plant ecology.
+  - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](https://CRAN.R-project.org/package=spatialRF) Spatial modelling with Random Forest.
+  - [`collinear`](https://CRAN.R-project.org/package=collinear) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](http://cranlogs.r-pkg.org/badges/grand-total/collinear)](https://CRAN.R-project.org/package=collinear) Multicollinearity management for numeric and categorical variables.
+  - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia) Time series comparison and analysis.
+  - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](http://cranlogs.r-pkg.org/badges/grand-total/memoria)](https://CRAN.R-project.org/package=memoria) Time series lag analysis.
+  - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; [![](http://cranlogs.r-pkg.org/badges/grand-total/virtualPollen)](https://CRAN.R-project.org/package=virtualPollen) Mechanistic simulation in plant ecology.
 
 __Social Media__
 
