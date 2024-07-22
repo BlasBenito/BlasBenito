@@ -36,6 +36,7 @@ __Stack__
 :wrench: R + Rstudio + git + GitHub + renv + Rcpp + docker + targets + Rmarkdown + plumber + DuckDB + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS
  
 __Scientific Code Development__
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/rater)](https://cran.r-project.org/package=rater)
   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF)](http://cranlogs.r-pkg.org/badges/grand-total/spatialRF) Spatial modelling with Random Forest.
   - [`collinear`](https://CRAN.R-project.org/package=collinear) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/collinear)](https://CRAN.R-project.org/package=collinear) Multicollinearity management for numeric and categorical variables.
   - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/distantia)](https://CRAN.R-project.org/package=distantia) Time series comparison and analysis.
