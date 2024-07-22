@@ -40,7 +40,7 @@ __Scientific Code Development__
   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/spatialRF) Spatial modelling with Random Forest.
   - [`collinear`](https://CRAN.R-project.org/package=collinear) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/collinear) Multicollinearity management for numeric and categorical variables.
   - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/distantia) Time series comparison and analysis.
-  - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/memoria) Time series lag analysis.
+  - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/memoria) Time series lag analysis.
   - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/virtualPollen) Mechanistic simulation in plant ecology.
 
 __Social Media__
