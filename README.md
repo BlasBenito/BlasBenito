@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Blas M. Benito, PhD
 
-__Spatial Data Scientist and Team Leader in AgriTech__
+__Spatial Data Scientist and Team Lead in AgriTech__
 
 - :roller_coaster: PhD in Computational Ecology and Master's Degree in Geographic Information Systems :globe_with_meridians:
 - :notebook: 18 YOE in Spatial Data Science, Scientific Software Development, and Research: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
@@ -33,7 +33,7 @@ __Spatial Data Scientist and Team Leader in AgriTech__
  
 __Stack__
 
-:wrench: R + Rstudio + git + GitHub + renv + Rcpp + docker + targets + Rmarkdown + plumber + DuckDB + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS
+:wrench: R + Rstudio + renv + Rcpp + targets + Rmarkdown + plumber + DuckDB + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS + docker + Jenkins + git + GitHub
  
 __Scientific Code Development__
 
@@ -46,7 +46,7 @@ __Scientific Code Development__
 __Social Media__
 
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109265705390787610?domain=https%3A%2F%2Ffosstodon.org&style=social)](https://fosstodon.org/@blasbenito)
-[![BlueSky Social](https://img.shields.io/twitter/url?style=social&label=BlueSky&logo=twitter&url=https://bsky.app/profile/blasbenito.bsky.social)](https://bsky.app/profile/blasbenito.bsky.social)
+[![BlueSky Social](https://img.shields.io/twitter/url?style=social&label=BlueSky&logo=twitter&url=https://bsky.app/profile/blasbenito.com)](https://bsky.app/profile/blasbenito.com)
 [![LinkedIn](https://img.shields.io/twitter/url?style=social&label=connect%20with%20me&logo=linkedin&url=https://www.linkedin.com/in/blas-m-benito-6174a643/)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
 [![Gmail](https://img.shields.io/twitter/url?style=social&label=blasbenito@gmail.com&logo=gmail&url=https://www.gmail.com)](mailto:blasbenito@gmail.com)
 [![Google Scholar](https://img.shields.io/twitter/url?style=social&label=Scholar&logo=googlescholar&url=https://scholar.google.es/citations?user=WBTp0McAAAAJ)](https://scholar.google.es/citations?user=WBTp0McAAAAJ)
