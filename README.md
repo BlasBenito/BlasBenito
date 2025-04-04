@@ -19,26 +19,63 @@ Here are some ideas to get you started:
 
 ### Blas M. Benito, PhD
 
-__Spatial Data Scientist and Team Lead in AgriTech__
+__Senior Data Scientist | Geospatial Tech Lead__
 
-- :roller_coaster: PhD in Computational Ecology and Master's Degree in Geographic Information Systems :globe_with_meridians:
+- :roller_coaster: PhD in Computational Ecology | MSc in Geographic Information Systems 🌍
 - :notebook: 18 YOE in Spatial Data Science, Scientific Software Development, and Research: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
-- :office: Spatial Data Scientist in AgTech.
-  - High-resolution soil mapping, spatial machine learning, time-series analysis and prediction
-  - Spatial data pipelines from the whiteboard to production
-  - Fundamental and applied research, knowledge transfer, and technical reporting
-  - Strategic planning
-  - Team leadership, management, and mentoring
- 
-__Stack__
 
-:wrench: R + Rstudio + renv + Rcpp + targets + Rmarkdown + plumber + DuckDB + PostgreSQL/PostGIS + GRASS GIS + Quantum GIS + Slurm + Spark + AWS + docker + Jenkins + git + GitHub
- 
-__Scientific Code Development__
+- 🌍 **Spatial modeling & product development**
+  - Design and development of high-resolution **soil/crop mapping products**
+  - Building **production pipelines** for spatial data engineering and modelling
+  - Development of **software packages** encapsulating business logic for AgTech applications
+  - Implementation of a **data infrastructure** to support AgTech products  
+  - Integrating **remote sensing**, environmental data, and spatial machine learning
+   
+- 📊 **Time series analysis & engineering** 
+  - Design of optimized algorithms for large-scale time series analysis
+  - Automated extraction of phenological indicators at global scale from remote sensing time series  
 
+- 🏛️ **Research, innovation & knowledge transfer** 
+  - Bridging fundamental and applied research in AgTech
+  - Communication of complex technical concepts into actionable insights for non-technical stakeholders  
+  - Author of international scientific publications in Computational and Spatial Ecology
+  - Writes clear and effective technical documentation  
+
+- 🚀 **Strategic leadership & mentorship**  
+  - Geospatial Tech Lead & Developer
+  - Driving **strategic planning and execution** to advance data science initiatives
+  - Built and led a high-impact data science team focused on innovation in AgTech
+  - Support data science advancements in a rapidly evolving industry  
+  - Mentor and guide teams to develop impactful, data-driven solutions
+ 
+__Tech Stack__
+
+- 🛠️ **Programming & Development**  
+  R | Rcpp | targets  | RStudio/Positron/VSCode | RMarkdown/Quarto | plumber | Jenkins | Git | GitHub | Shiny
+
+- 📊 **Machine Learning & Stats**  
+  xgboost | ranger | rpart | partyKit | tidymodels | glm/gam | lme4 | nnet | kernlab
+
+- 📊 **Data Visualization**  
+  ggplot2 | plotly | leaflet | mapview 
+
+- 🗄️ **Databases & Data Management**  
+  PostgreSQL/PostGIS | DuckDB | Apache Arrow | DBeaver
+
+- 🧭 **Geospatial Tools**  
+  GDAL | terra | sf | leaflet | GRASS GIS | Quantum GIS (QGIS) | TerrSet (formerly IDRISI) | SAGA GIS
+
+- ☁️ **Cloud & Distributed Systems**  
+  AWS/awscli | Google Cloud/gcloud | Slurm | Spark  
+
+- 🔧 **Package & Environment Management**  
+  renv | Docker
+ 
+__Open Source Development__
+
+  - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/distantia) Fast Dynamic Time Warping Library
   - [`spatialRF`](https://CRAN.R-project.org/package=spatialRF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/spatialRF) Spatial modelling with Random Forest.
-  - [`collinear`](https://CRAN.R-project.org/package=collinear) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/collinear) Seamless multicollinearity management.
-  - [`distantia`](https://CRAN.R-project.org/package=distantia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/distantia) Time series comparison and analysis.
+  - [`collinear`](https://CRAN.R-project.org/package=collinear) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/collinear) Automated multicollinearity management.
   - [`memoria`](https://cran.r-project.org/web/packages/memoria/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/memoria) Time series lag analysis.
   - [`virtualPollen`](https://cran.r-project.org/web/packages/virtualPollen/index.html) &nbsp; ![](https://cranlogs.r-pkg.org/badges/grand-total/virtualPollen) Mechanistic simulation in plant ecology.
 
