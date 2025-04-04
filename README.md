@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 __Senior Data Scientist | Geospatial Tech Lead__
 
-- :roller_coaster: PhD in Computational Ecology | MSc in Geographic Information Systems 🌍
+- 🎓 PhD in Computational Ecology | MSc in Geographic Information Systems 🌍
 - :notebook: 18 YOE in Spatial Data Science, Scientific Software Development, and Research: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
 
 - 🌍 **Spatial modeling & product development**
