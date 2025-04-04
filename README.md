@@ -22,30 +22,36 @@ Here are some ideas to get you started:
 __Senior Data Scientist | Geospatial Tech Lead__
 
 - 🎓 PhD in Computational Ecology | MSc in Geographic Information Systems 🌍
-- 🧠 18 YOE in Spatial Data Science, Scientific Software Development, and Research: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
-- 💼 Senior Spatial Data Scientist at Biome Makers Inc
 
-- 🌍 **Spatial modeling & product development**
+- 🧠 18 YOE in Spatial Data Science, Scientific Software Development, and Research [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
+
+- 🌍 International experience in world-class multidisciplinary research teams across 🇪🇸 Spain, 🇩🇰 Denmark, and 🇳🇴 Norway 
+
+- 💼 **Senior Spatial Data Scientist at Biome Makers Inc**
+
+__Professional Profile__
+
+- 🗺️ **Spatial modeling & product development**
   - Design and development of high-resolution **soil/crop mapping products**
-  - Building **production pipelines** for spatial data engineering and modelling
-  - Development of **software packages** encapsulating business logic for AgTech applications
-  - Implementation of a **data infrastructure** to support AgTech products  
-  - Integrating **remote sensing**, environmental data, and spatial machine learning
+  - Build **production pipelines** for spatial data engineering and modelling
+  - Develop **software packages** encapsulating business logic for AgTech applications
+  - Implement a **data infrastructure** to support AgTech products  
+  - Integrate **remote sensing**, environmental data, and spatial machine learning to boost company products
    
 - 📈 **Time series analysis & engineering** 
   - Design of optimized algorithms for large-scale time series analysis
   - Automated extraction of phenological indicators at global scale from remote sensing time series  
 
 - 🏛️ **Research, innovation & knowledge transfer** 
-  - Bridging fundamental and applied research in AgTech
-  - Communication of complex technical concepts into actionable insights for non-technical stakeholders  
+  - Bridge fundamental and applied research in AgTech
+  - Communicate complex technical concepts to non-technical stakeholders  
   - Author of international scientific publications in Computational and Spatial Ecology
-  - Writes clear and effective technical documentation  
+  - Write clear and effective technical documentation  
 
 - 🚀 **Strategic leadership & mentorship**  
   - Geospatial Tech Lead & Developer
-  - Driving **strategic planning and execution** to advance data science initiatives
-  - Built and led a high-impact data science team focused on innovation in AgTech
+  - Drive **strategic planning and execution** to advance data science initiatives
+  - Build and lead high-impact data science teams focused on innovation in AgTech
   - Support data science advancements in a rapidly evolving industry  
   - Mentor and guide teams to develop impactful, data-driven solutions
  
