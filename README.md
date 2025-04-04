@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 __Senior Data Scientist | Geospatial Tech Lead__
 
 - 🎓 PhD in Computational Ecology | MSc in Geographic Information Systems 🌍
-- :notebook: 18 YOE in Spatial Data Science, Scientific Software Development, and Research: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
+- 🧠 18 YOE in Spatial Data Science, Scientific Software Development, and Research: [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
+- 💼 Senior Spatial Data Scientist at Biome Makers Inc
 
 - 🌍 **Spatial modeling & product development**
   - Design and development of high-resolution **soil/crop mapping products**
