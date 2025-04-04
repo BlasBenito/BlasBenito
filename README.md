@@ -27,7 +27,7 @@ __Senior Data Scientist | Geospatial Tech Lead__
 
 - 🌍 International experience in world-class multidisciplinary research teams across 🇪🇸 Spain, 🇩🇰 Denmark, and 🇳🇴 Norway 
 
-- 💼 **Senior Spatial Data Scientist at Biome Makers Inc**
+- 💼 Current Role: Senior Spatial Data Scientist at Biome Makers Inc
 
 __Professional Profile__
 
