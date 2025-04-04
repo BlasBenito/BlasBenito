@@ -31,7 +31,7 @@ __Senior Data Scientist | Geospatial Tech Lead__
   - Implementation of a **data infrastructure** to support AgTech products  
   - Integrating **remote sensing**, environmental data, and spatial machine learning
    
-- 📊 **Time series analysis & engineering** 
+- 📈 **Time series analysis & engineering** 
   - Design of optimized algorithms for large-scale time series analysis
   - Automated extraction of phenological indicators at global scale from remote sensing time series  
 
@@ -53,7 +53,7 @@ __Tech Stack__
 - 🛠️ **Programming & Development**  
   R | Rcpp | targets  | RStudio/Positron/VSCode | RMarkdown/Quarto | plumber | Jenkins | Git | GitHub | Shiny
 
-- 📊 **Machine Learning & Stats**  
+- 🤖 **Machine Learning & Stats**  
   xgboost | ranger | rpart | partyKit | tidymodels | glm/gam | lme4 | nnet | kernlab
 
 - 📊 **Data Visualization**  
