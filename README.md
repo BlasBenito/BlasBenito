@@ -19,15 +19,17 @@ Here are some ideas to get you started:
 
 ### Blas M. Benito, PhD
 
+[Resume (PDF)](https://www.blasbenito.com/files/blas_benito_resume.pdf)
+
 __Senior Data Scientist | Geospatial Tech Lead__
 
 - 🎓 PhD in Computational Ecology | MSc in Geographic Information Systems 🌍
 
-- 🧠 18 YOE in Spatial Data Science, Scientific Software Development, and Research [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
+- 🧠 19 YOE in Spatial Data Science, Scientific Software Development, and Research [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
 
 - 🌍 International experience in world-class multidisciplinary research teams across 🇪🇸 Spain, 🇩🇰 Denmark, and 🇳🇴 Norway 
 
-- 💼 Current Role: Senior Spatial Data Scientist at Biome Makers Inc
+- 💼 Current Role: Senior Data Scientist at Biome Makers Inc
 
 __Professional Profile__
 
