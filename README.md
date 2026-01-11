@@ -52,18 +52,6 @@ I'm a data science leader with 19+ years of international experience bridging cu
 | **Engineering** | R • Python • SQL • C++ • CI/CD • Jenkins • Docker • AWS/GCP |
 | **Data Systems** | Pipeline automation • High-performance computing • Large-scale data processing |
 
-## Open Source Contributions
-
-R packages I've authored and maintain:
-
-| Package | Downloads | Description |
-|---------|-----------|-------------|
-| [**distantia**](https://CRAN.R-project.org/package=distantia) | ![](https://cranlogs.r-pkg.org/badges/grand-total/distantia) | Fast Dynamic Time Warping for time series comparison |
-| [**spatialRF**](https://CRAN.R-project.org/package=spatialRF) | ![](https://cranlogs.r-pkg.org/badges/grand-total/spatialRF) | Spatial modeling with Random Forest |
-| [**collinear**](https://CRAN.R-project.org/package=collinear) | ![](https://cranlogs.r-pkg.org/badges/grand-total/collinear) | Automated multicollinearity management |
-| [**memoria**](https://CRAN.R-project.org/package=memoria) | ![](https://cranlogs.r-pkg.org/badges/grand-total/memoria) | Ecological memory analysis in time series |
-| [**virtualPollen**](https://CRAN.R-project.org/package=virtualPollen) | ![](https://cranlogs.r-pkg.org/badges/grand-total/virtualPollen) | Mechanistic simulation in plant ecology |
-
 ## Career Highlights
 
 **Research & Software Development** • University of Alicante & Bergen University (2016–2021)
@@ -83,6 +71,18 @@ R packages I've authored and maintain:
 - 🌍 **MSc** in Geographic Information Systems (UNIGIS) — University of Girona (2009)
 - 📊 **MSc** in Management and Environmental Auditing — University of Cádiz (2006)
 - 🧬 **BSc** in Biology (Ecology) — University of Granada (2003)
+
+## Open Source Contributions
+
+R packages I've authored and maintain:
+
+| Package | Downloads | Description |
+|---------|-----------|-------------|
+| [**distantia**](https://CRAN.R-project.org/package=distantia) | ![](https://cranlogs.r-pkg.org/badges/grand-total/distantia) | Fast Dynamic Time Warping for time series comparison |
+| [**spatialRF**](https://CRAN.R-project.org/package=spatialRF) | ![](https://cranlogs.r-pkg.org/badges/grand-total/spatialRF) | Spatial modeling with Random Forest |
+| [**collinear**](https://CRAN.R-project.org/package=collinear) | ![](https://cranlogs.r-pkg.org/badges/grand-total/collinear) | Automated multicollinearity management |
+| [**memoria**](https://CRAN.R-project.org/package=memoria) | ![](https://cranlogs.r-pkg.org/badges/grand-total/memoria) | Ecological memory analysis in time series |
+| [**virtualPollen**](https://CRAN.R-project.org/package=virtualPollen) | ![](https://cranlogs.r-pkg.org/badges/grand-total/virtualPollen) | Mechanistic simulation in plant ecology |
 
 ## Let's Connect
 
