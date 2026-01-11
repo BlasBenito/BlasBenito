@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ## Senior Data Scientist & Team Lead
 
+---
+
 [![Email](https://img.shields.io/badge/Email-blasbenito%40gmail.com-blue?logo=gmail)](mailto:blasbenito@gmail.com)
 [![Website](https://img.shields.io/badge/Website-blasbenito.com-green?logo=netlify)](https://www.blasbenito.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
