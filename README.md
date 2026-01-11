@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 -->
 
-### Blas M. Benito, PhD
-
-[Resume (PDF)](https://www.blasbenito.com/files/blas_benito_resume.pdf)
+### [Blas M. Benito](https://www.blasbenito.com/), PhD
 
 __Senior Data Scientist | Geospatial Tech Lead__
+
+- [Resume (PDF)](https://www.blasbenito.com/files/blas_benito_resume.pdf)
 
 - 🎓 PhD in Computational Ecology | MSc in Geographic Information Systems 🌍
 
