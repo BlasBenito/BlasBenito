@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Blas M. Benito, PhD
 
-**Senior Data Scientist & Team Lead** • Geospatial Technology • Machine Learning
+## Senior Data Scientist & Team Lead
 
 [![Email](https://img.shields.io/badge/Email-blasbenito%40gmail.com-blue?logo=gmail)](mailto:blasbenito@gmail.com)
 [![Website](https://img.shields.io/badge/Website-blasbenito.com-green?logo=netlify)](https://www.blasbenito.com)
