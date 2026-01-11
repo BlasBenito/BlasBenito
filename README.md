@@ -52,8 +52,6 @@ I'm a data science leader with 19+ years of international experience bridging cu
 | **Engineering** | R • Python • SQL • C++ • CI/CD • Jenkins • Docker • AWS/GCP |
 | **Data Systems** | Pipeline automation • High-performance computing • Large-scale data processing |
 
----
-
 ## Open Source Contributions
 
 R packages I've authored and maintain:
@@ -65,8 +63,6 @@ R packages I've authored and maintain:
 | [**collinear**](https://CRAN.R-project.org/package=collinear) | ![](https://cranlogs.r-pkg.org/badges/grand-total/collinear) | Automated multicollinearity management |
 | [**memoria**](https://CRAN.R-project.org/package=memoria) | ![](https://cranlogs.r-pkg.org/badges/grand-total/memoria) | Ecological memory analysis in time series |
 | [**virtualPollen**](https://CRAN.R-project.org/package=virtualPollen) | ![](https://cranlogs.r-pkg.org/badges/grand-total/virtualPollen) | Mechanistic simulation in plant ecology |
-
----
 
 ## Career Highlights
 
@@ -81,16 +77,12 @@ R packages I've authored and maintain:
 - Patented MODELER, a metadata system for Earth Sciences
 - Authored 26 peer-reviewed publications
 
----
-
 ## Education
 
 - 🎓 **PhD** in Computational Ecology — University of Granada (2010)
 - 🌍 **MSc** in Geographic Information Systems (UNIGIS) — University of Girona (2009)
 - 📊 **MSc** in Management and Environmental Auditing — University of Cádiz (2006)
 - 🧬 **BSc** in Biology (Ecology) — University of Granada (2003)
-
----
 
 ## Let's Connect
 
