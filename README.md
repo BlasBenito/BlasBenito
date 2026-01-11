@@ -33,8 +33,6 @@ I'm a data science leader with 19+ years of international experience bridging cu
 
 📄 **[Download my full résumé (PDF)](https://www.blasbenito.com/files/blas_benito_resume.pdf)**
 
----
-
 ## Current Role
 
 **Senior Data Scientist & Team Lead** at [Biome Makers Inc](https://biomemakers.com/) (Spain/US)
@@ -43,8 +41,6 @@ I'm a data science leader with 19+ years of international experience bridging cu
 - Architected production systems combining high-resolution Earth observation data and machine learning, mapping **200,000+ hectares** of soil microbiome and crop disease worldwide
 - Delivered solutions that secured **€2M+ in enterprise contracts**, directly shaping company strategy and enabling commercial expansion
 - Established operational stability procedures maintaining production system reliability across global deployments
-
----
 
 ## What I Bring
 
