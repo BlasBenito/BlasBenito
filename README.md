@@ -100,9 +100,9 @@ R packages I've authored and maintain:
 
 ## Let's Connect
 
-I'm always interested in discussing data science leadership, geospatial technology, and opportunities where I can make an impact.
+I'm always interested in discussing data science, geospatial technology, and opportunities where I can make an impact.
 
-[![Email](https://img.shields.io/badge/Email-blasbenito%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:blasbenito@gmail.com)
+[![Email](https://img.shields.io/badge/Email-blasbenito%40gmail.com-blue?logo=gmail)](mailto:blasbenito@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blas-m-benito-6174a643/)
 [![Mastodon](https://img.shields.io/mastodon/follow/109265705390787610?domain=https%3A%2F%2Ffosstodon.org&style=social)](https://fosstodon.org/@blasbenito)
 [![BlueSky](https://img.shields.io/badge/BlueSky-@blasbenito.com-0085FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/blasbenito.com)
