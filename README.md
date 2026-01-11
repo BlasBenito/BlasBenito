@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 -->
 
-### [Blas M. Benito](https://www.blasbenito.com/), PhD
+### [Blas M. Benito, PhD](https://www.blasbenito.com/)
 
 __Senior Data Scientist | Geospatial Tech Lead__
 
-- [Resume (PDF)](https://www.blasbenito.com/files/blas_benito_resume.pdf)
+- 🧠 [Resumé (PDF)](https://www.blasbenito.com/files/blas_benito_resume.pdf)
 
 - 🎓 PhD in Computational Ecology | MSc in Geographic Information Systems 🌍
 
-- 🧠 19 YOE in Spatial Data Science, Scientific Software Development, and Research [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
+- ⚡ 19 YOE in Spatial Data Science, Scientific Software Development, and Research [![ORCID](https://img.shields.io/badge/ORCID-a6ce39.svg)](https://orcid.org/0000-0001-5105-7232)
 
 - 🌍 International experience in world-class multidisciplinary research teams across 🇪🇸 Spain, 🇩🇰 Denmark, and 🇳🇴 Norway 
 
@@ -72,7 +72,7 @@ __Tech Stack__
   PostgreSQL/PostGIS | DuckDB | Apache Arrow | DBeaver
 
 - 🧭 **Geospatial Tools**  
-  GDAL | terra | sf | leaflet | GRASS GIS | Quantum GIS (QGIS) | TerrSet (formerly IDRISI) | SAGA GIS
+  GDAL | PostGis | Apache Sedona | terra | sf | leaflet | GRASS GIS | Quantum GIS (QGIS) | TerrSet (formerly IDRISI) | SAGA GIS
 
 - ☁️ **Cloud & Distributed Systems**  
   AWS/awscli | Google Cloud/gcloud | Slurm | Spark  
