@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a data science leader with 19+ years of international experience bridging cutting-edge research and production systems. I specialize in translating complex geospatial and machine learning methods into scalable solutions that drive measurable business impact.
+I'm a senior data scientist with 19+ years of international experience bridging cutting-edge research and production systems. I specialize in translating complex data and machine learning methods into scalable solutions that drive measurable business impact.
 
 📄 **[Download my full résumé (PDF)](https://www.blasbenito.com/files/blas_benito_resume.pdf)**
 
