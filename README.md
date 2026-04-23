@@ -78,9 +78,10 @@ R packages I've authored and maintain:
 
 | Package | Downloads | Description |
 |---------|-----------|-------------|
+| [**collinear**](https://CRAN.R-project.org/package=collinear) | ![](https://cranlogs.r-pkg.org/badges/grand-total/collinear) | Automated multicollinearity management |
 | [**distantia**](https://CRAN.R-project.org/package=distantia) | ![](https://cranlogs.r-pkg.org/badges/grand-total/distantia) | Fast Dynamic Time Warping for time series comparison |
 | [**spatialRF**](https://CRAN.R-project.org/package=spatialRF) | ![](https://cranlogs.r-pkg.org/badges/grand-total/spatialRF) | Spatial modeling with Random Forest |
-| [**collinear**](https://CRAN.R-project.org/package=collinear) | ![](https://cranlogs.r-pkg.org/badges/grand-total/collinear) | Automated multicollinearity management |
+| [**spatialData**](https://CRAN.R-project.org/package=spatialData) | ![](https://cranlogs.r-pkg.org/badges/grand-total/spatialData) | Datasets for spatial modelling |
 | [**memoria**](https://CRAN.R-project.org/package=memoria) | ![](https://cranlogs.r-pkg.org/badges/grand-total/memoria) | Ecological memory analysis in time series |
 | [**virtualPollen**](https://CRAN.R-project.org/package=virtualPollen) | ![](https://cranlogs.r-pkg.org/badges/grand-total/virtualPollen) | Mechanistic simulation in plant ecology |
 
